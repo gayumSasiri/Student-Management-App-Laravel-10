@@ -6,7 +6,7 @@
 
 ## Overview
 
-This project is part of the application for the Full Stack Developer Internship position. It implements a Laravel version 10 application using the Inertia.js technology along with the Facade design pattern. The assignment includes the implementation of a login feature using Laravel Breeze authentication and the development of a CRUD system for managing student entities.
+This project implements a Laravel version 10 application using the Inertia.js technology along with the Facade design pattern. The assignment includes the implementation of a login feature using Laravel Breeze authentication and the development of a CRUD system for managing student entities.
 
 ## Features
 
